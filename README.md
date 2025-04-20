@@ -1,0 +1,2 @@
+# ebitengine_training
+Github copilot agentによって、ebitenengineでゲームを作ってみる練習レポジトリ
