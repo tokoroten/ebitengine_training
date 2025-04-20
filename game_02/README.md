@@ -2,7 +2,7 @@
 
 ## キーボードの押された位置にキャラクターが移動する
 
-![alt text](image.png)
+![alt text](doc/image.png)
 
 ## スプライト生成
 ![](assets/images/character.png)
