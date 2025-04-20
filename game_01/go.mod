@@ -1,4 +1,4 @@
-module github.com/yourusername/ebitengine_training/game_01
+module github.com/tokoroten/ebitengine_training/game_01
 
 go 1.24.2
 
